@@ -78,6 +78,13 @@ README.md
 
 ---
 
+## 🎥 Project Demo Video  
+
+Watch the video here:  
+https://youtu.be/KIcSZte1Hig?si=auYodHcAfin7Zi2J
+
+---
+
 ## 🚀 How to Use
 
 1. Browse through the folders
